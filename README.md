@@ -1,2 +1,3 @@
 # git_self_repo
-I am trying v19 experience. Earlier it went wrong 
+This repo is made for changes implementations seen into kunals video
+
